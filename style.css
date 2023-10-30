@@ -1,0 +1,21 @@
+body{
+    margin: 0 auto;
+    max-width: 1300px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 100px;
+}
+.car{
+    color: rgb(160, 95, 137);
+    font-size: 36px;
+    text-align: center;
+    border: 2px solid rgb(182, 56, 92);
+    width: 500px;
+    height: 500px;
+    padding:20px;
+    border-radius: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
